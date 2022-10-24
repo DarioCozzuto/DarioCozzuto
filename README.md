@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarioCozzuto
-- 👀 I'm a Developer, Designer, Digital Marketing Specialist
+- 👀 I'm a Developer, Graphic Designer, Digital Marketing Specialist
 
 <!---
 DarioCozzuto/DarioCozzuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
